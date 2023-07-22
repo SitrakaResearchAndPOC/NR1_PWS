@@ -1,4 +1,4 @@
-# NR1_PWS
+# NR2_PWS
 # Documentations
 * https://www.docomo.ne.jp/binary/pdf/corporate/technology/rd/technical_journal/bn/vol17_3/vol17_3_021jp.pdf
 * http://www.5gsummit.org/greece/slides/Session4_10_Louis%20Christodoulou.pdf
